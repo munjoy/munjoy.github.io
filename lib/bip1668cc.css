@@ -1,0 +1,20 @@
+/*
+    This stylesheet has been made for Big Ideas Project 1668cc.
+
+    Author : Vik Nuckchady
+    Version: 0.1.0
+*/
+
+body {
+    margin-top: 54px;
+    position: relative;
+}
+
+div.section {
+    margin-top: -54px;
+    padding-top: 36px;
+}
+
+img.logo {
+    height: 24px;
+}
